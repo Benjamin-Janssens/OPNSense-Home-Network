@@ -77,8 +77,7 @@
 	• Addressing: 192.168.6.100
 	• Role: DMZ server, isolated via routing rules
 	• Attached NIC: DMZ (intel I226-v)
-	• VLANs carried: 10, 20, 40, 100 (and others as required)
-	• Connected to: Managed switch trunk port
+	• Connected to: Ubuntu Server
   
 #### OPNsense VM
 #### Interfaces
